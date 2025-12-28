@@ -1,0 +1,15 @@
+{
+  "name": "spse_js_alg1",
+  "version": "1.0.0",
+  "description": "Algorithm comparison and testing in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.js",
+    "benchmark": "node benchmark.js"
+  },
+  "keywords": ["algorithms", "testing", "benchmark"],
+  "author": "",
+  "license": "ISC"
+}
+
